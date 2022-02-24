@@ -14,7 +14,7 @@ variable "name" {
 }
 
 variable "profile" {
-  description = "Cloudcover AWS devops account"
+  description = "my devops account"
   type        = string
   default     = "895307684105_DevOpsAccount"
 }
